@@ -83,8 +83,8 @@ An interactive dashboard for exploratory data analysis (EDA) of Zomato restauran
 ---
 
 ## Screenshots
-![Dashboard Overview](assets/screenshot1.png)
-*Add more screenshots as needed.*
+![Dashboard Overview](https://github.com/coder-akram-khan/Zomato-EDA-Dashboard/blob/main/assets/zomatodash.png?raw=true)
+
 
 ---
 
